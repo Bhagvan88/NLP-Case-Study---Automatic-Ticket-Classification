@@ -41,7 +41,7 @@ You need to perform the following eight major tasks to complete the assignment:
 You need to try at least any three models from logistic regression, naive Bayes, decision tree and random forest. 
 You need to select the model that performs the best according to the evaluation metrics.
 
-#Team
+# Team
 Bhagvan Bux Verma
-#Contact
+# Contact
 Created by [Bhagvan88] https://github.com/Bhagvan88/Syntactic-Processing---Assignment
